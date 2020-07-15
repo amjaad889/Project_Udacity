@@ -1,6 +1,6 @@
 # Project_Udacity1
 Analyze NYSE Data
-Excel
+by Excel
 
 
 * Summary of statistics
