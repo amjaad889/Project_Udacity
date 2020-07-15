@@ -1,4 +1,4 @@
-# Project_Udacity1
+
 Analyze NYSE Data
 by Excel
 
