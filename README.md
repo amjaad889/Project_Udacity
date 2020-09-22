@@ -1,8 +1,3 @@
-
-Analyze NYSE Data
-by Excel
+Projects I worked on in Business Analysis Software - Platform Udacity
 
 
-* Summary of statistics
-* P&L Statement Dashboard
-* Outlook scenarios
